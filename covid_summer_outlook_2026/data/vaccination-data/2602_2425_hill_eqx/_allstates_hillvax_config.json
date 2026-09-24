@@ -1,0 +1,2252 @@
+[
+  {
+    "state": "alabama",
+    "fits": [
+      {
+        "state": "alabama",
+        "ageclass": "0-17",
+        "shape": 0.5476,
+        "scale": 0.1051,
+        "start_date": "2024-09-29",
+        "t_halfsat": 64.5102,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.068
+      },
+      {
+        "state": "alabama",
+        "ageclass": "18-49",
+        "shape": 1.3922,
+        "scale": 0.1029,
+        "start_date": "2024-09-01",
+        "t_halfsat": 70.6097,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.0856
+      },
+      {
+        "state": "alabama",
+        "ageclass": "50-64",
+        "shape": 1.3162,
+        "scale": 0.1746,
+        "start_date": "2024-09-01",
+        "t_halfsat": 60.7858,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1479
+      },
+      {
+        "state": "alabama",
+        "ageclass": "65+",
+        "shape": 1.2423,
+        "scale": 0.3048,
+        "start_date": "2024-09-01",
+        "t_halfsat": 48.5256,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.265
+      }
+    ]
+  },
+  {
+    "state": "alaska",
+    "fits": [
+      {
+        "state": "alaska",
+        "ageclass": "0-17",
+        "shape": 0.2349,
+        "scale": 1.9344,
+        "start_date": "2024-09-29",
+        "t_halfsat": 49454455.1354,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0987
+      },
+      {
+        "state": "alaska",
+        "ageclass": "18-49",
+        "shape": 1.5346,
+        "scale": 0.1518,
+        "start_date": "2024-09-01",
+        "t_halfsat": 67.0723,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.131
+      },
+      {
+        "state": "alaska",
+        "ageclass": "50-64",
+        "shape": 1.3646,
+        "scale": 0.2692,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.7234,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2287
+      },
+      {
+        "state": "alaska",
+        "ageclass": "65+",
+        "shape": 1.3427,
+        "scale": 0.4516,
+        "start_date": "2024-09-01",
+        "t_halfsat": 46.3948,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4027
+      }
+    ]
+  },
+  {
+    "state": "arizona",
+    "fits": [
+      {
+        "state": "arizona",
+        "ageclass": "0-17",
+        "shape": 0.4806,
+        "scale": 18369.1429,
+        "start_date": "2024-09-29",
+        "t_halfsat": 21693728679848.652,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0901
+      },
+      {
+        "state": "arizona",
+        "ageclass": "18-49",
+        "shape": 1.6132,
+        "scale": 0.1527,
+        "start_date": "2024-09-01",
+        "t_halfsat": 63.5604,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1349
+      },
+      {
+        "state": "arizona",
+        "ageclass": "50-64",
+        "shape": 1.4682,
+        "scale": 0.2643,
+        "start_date": "2024-09-01",
+        "t_halfsat": 56.5138,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2332
+      },
+      {
+        "state": "arizona",
+        "ageclass": "65+",
+        "shape": 1.3455,
+        "scale": 0.4639,
+        "start_date": "2024-09-01",
+        "t_halfsat": 45.2625,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4153
+      }
+    ]
+  },
+  {
+    "state": "arkansas",
+    "fits": [
+      {
+        "state": "arkansas",
+        "ageclass": "0-17",
+        "shape": 1.6403,
+        "scale": 0.0608,
+        "start_date": "2024-09-29",
+        "t_halfsat": 21.5691,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0592
+      },
+      {
+        "state": "arkansas",
+        "ageclass": "18-49",
+        "shape": 1.8592,
+        "scale": 0.1074,
+        "start_date": "2024-09-01",
+        "t_halfsat": 57.3355,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.0994
+      },
+      {
+        "state": "arkansas",
+        "ageclass": "50-64",
+        "shape": 1.7737,
+        "scale": 0.1833,
+        "start_date": "2024-09-01",
+        "t_halfsat": 50.1568,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1712
+      },
+      {
+        "state": "arkansas",
+        "ageclass": "65+",
+        "shape": 1.4563,
+        "scale": 0.3455,
+        "start_date": "2024-09-01",
+        "t_halfsat": 44.9865,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3149
+      }
+    ]
+  },
+  {
+    "state": "california",
+    "fits": [
+      {
+        "state": "california",
+        "ageclass": "0-17",
+        "shape": 0.7917,
+        "scale": 0.2454,
+        "start_date": "2024-09-29",
+        "t_halfsat": 73.7641,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1677
+      },
+      {
+        "state": "california",
+        "ageclass": "18-49",
+        "shape": 1.4282,
+        "scale": 0.2149,
+        "start_date": "2024-09-01",
+        "t_halfsat": 71.081,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1798
+      },
+      {
+        "state": "california",
+        "ageclass": "50-64",
+        "shape": 1.3672,
+        "scale": 0.3622,
+        "start_date": "2024-09-01",
+        "t_halfsat": 60.7933,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3098
+      },
+      {
+        "state": "california",
+        "ageclass": "65+",
+        "shape": 1.3385,
+        "scale": 0.6184,
+        "start_date": "2024-09-01",
+        "t_halfsat": 46.8855,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5501
+      }
+    ]
+  },
+  {
+    "state": "colorado",
+    "fits": [
+      {
+        "state": "colorado",
+        "ageclass": "0-17",
+        "shape": 0.9995,
+        "scale": 0.2255,
+        "start_date": "2024-09-29",
+        "t_halfsat": 39.779,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1873
+      },
+      {
+        "state": "colorado",
+        "ageclass": "18-49",
+        "shape": 1.7813,
+        "scale": 0.1977,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.8556,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1827
+      },
+      {
+        "state": "colorado",
+        "ageclass": "50-64",
+        "shape": 1.8218,
+        "scale": 0.3305,
+        "start_date": "2024-09-01",
+        "t_halfsat": 46.2858,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3127
+      },
+      {
+        "state": "colorado",
+        "ageclass": "65+",
+        "shape": 1.8717,
+        "scale": 0.5761,
+        "start_date": "2024-09-01",
+        "t_halfsat": 37.1279,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5566
+      }
+    ]
+  },
+  {
+    "state": "connecticut",
+    "fits": [
+      {
+        "state": "connecticut",
+        "ageclass": "0-17",
+        "shape": 2.4902,
+        "scale": 0.1533,
+        "start_date": "2024-09-29",
+        "t_halfsat": 30.7502,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1517
+      },
+      {
+        "state": "connecticut",
+        "ageclass": "18-49",
+        "shape": 1.8932,
+        "scale": 0.2196,
+        "start_date": "2024-09-01",
+        "t_halfsat": 78.8215,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1927
+      },
+      {
+        "state": "connecticut",
+        "ageclass": "50-64",
+        "shape": 1.9873,
+        "scale": 0.3622,
+        "start_date": "2024-09-01",
+        "t_halfsat": 69.9564,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3293
+      },
+      {
+        "state": "connecticut",
+        "ageclass": "65+",
+        "shape": 1.8264,
+        "scale": 0.6502,
+        "start_date": "2024-09-01",
+        "t_halfsat": 63.3519,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5909
+      }
+    ]
+  },
+  {
+    "state": "delaware",
+    "fits": [
+      {
+        "state": "delaware",
+        "ageclass": "0-17",
+        "shape": 0.4881,
+        "scale": 868.822,
+        "start_date": "2024-09-29",
+        "t_halfsat": 15258859300.7178,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.122
+      },
+      {
+        "state": "delaware",
+        "ageclass": "18-49",
+        "shape": 2.1146,
+        "scale": 0.1882,
+        "start_date": "2024-09-01",
+        "t_halfsat": 56.8812,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1783
+      },
+      {
+        "state": "delaware",
+        "ageclass": "50-64",
+        "shape": 2.2685,
+        "scale": 0.3169,
+        "start_date": "2024-09-01",
+        "t_halfsat": 50.2957,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3065
+      },
+      {
+        "state": "delaware",
+        "ageclass": "65+",
+        "shape": 2.4557,
+        "scale": 0.5549,
+        "start_date": "2024-09-01",
+        "t_halfsat": 42.8551,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5454
+      }
+    ]
+  },
+  {
+    "state": "florida",
+    "fits": [
+      {
+        "state": "florida",
+        "ageclass": "0-17",
+        "shape": 0.2292,
+        "scale": 386.048,
+        "start_date": "2024-09-29",
+        "t_halfsat": 1.6372249641036214e+19,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0511
+      },
+      {
+        "state": "florida",
+        "ageclass": "18-49",
+        "shape": 1.6668,
+        "scale": 0.1198,
+        "start_date": "2024-09-01",
+        "t_halfsat": 64.0511,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1065
+      },
+      {
+        "state": "florida",
+        "ageclass": "50-64",
+        "shape": 1.9013,
+        "scale": 0.1903,
+        "start_date": "2024-09-01",
+        "t_halfsat": 51.3877,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1793
+      },
+      {
+        "state": "florida",
+        "ageclass": "65+",
+        "shape": 1.8193,
+        "scale": 0.3448,
+        "start_date": "2024-09-01",
+        "t_halfsat": 44.9473,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.327
+      }
+    ]
+  },
+  {
+    "state": "georgia",
+    "fits": [
+      {
+        "state": "georgia",
+        "ageclass": "0-17",
+        "shape": 0.9807,
+        "scale": 0.1297,
+        "start_date": "2024-09-29",
+        "t_halfsat": 61.772,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.098
+      },
+      {
+        "state": "georgia",
+        "ageclass": "18-49",
+        "shape": 1.4783,
+        "scale": 0.145,
+        "start_date": "2024-09-01",
+        "t_halfsat": 102.4677,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1101
+      },
+      {
+        "state": "georgia",
+        "ageclass": "50-64",
+        "shape": 1.391,
+        "scale": 0.2556,
+        "start_date": "2024-09-01",
+        "t_halfsat": 99.5976,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1928
+      },
+      {
+        "state": "georgia",
+        "ageclass": "65+",
+        "shape": 1.349,
+        "scale": 0.4369,
+        "start_date": "2024-09-01",
+        "t_halfsat": 85.0133,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3434
+      }
+    ]
+  },
+  {
+    "state": "hawaii",
+    "fits": [
+      {
+        "state": "hawaii",
+        "ageclass": "0-17",
+        "shape": 1.018,
+        "scale": 0.1628,
+        "start_date": "2024-09-29",
+        "t_halfsat": 33.6842,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1394
+      },
+      {
+        "state": "hawaii",
+        "ageclass": "18-49",
+        "shape": 1.2334,
+        "scale": 0.2224,
+        "start_date": "2024-09-01",
+        "t_halfsat": 64.9022,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1826
+      },
+      {
+        "state": "hawaii",
+        "ageclass": "50-64",
+        "shape": 1.0409,
+        "scale": 0.4069,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.7299,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3211
+      },
+      {
+        "state": "hawaii",
+        "ageclass": "65+",
+        "shape": 1.0685,
+        "scale": 0.6501,
+        "start_date": "2024-09-01",
+        "t_halfsat": 38.6898,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5634
+      }
+    ]
+  },
+  {
+    "state": "idaho",
+    "fits": [
+      {
+        "state": "idaho",
+        "ageclass": "0-17",
+        "shape": 1.025,
+        "scale": 0.1086,
+        "start_date": "2024-09-29",
+        "t_halfsat": 37.3198,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0918
+      },
+      {
+        "state": "idaho",
+        "ageclass": "18-49",
+        "shape": 1.5856,
+        "scale": 0.1554,
+        "start_date": "2024-09-01",
+        "t_halfsat": 87.2048,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1268
+      },
+      {
+        "state": "idaho",
+        "ageclass": "50-64",
+        "shape": 1.442,
+        "scale": 0.2751,
+        "start_date": "2024-09-01",
+        "t_halfsat": 83.8499,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2211
+      },
+      {
+        "state": "idaho",
+        "ageclass": "65+",
+        "shape": 1.3583,
+        "scale": 0.4728,
+        "start_date": "2024-09-01",
+        "t_halfsat": 70.7029,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3907
+      }
+    ]
+  },
+  {
+    "state": "illinois",
+    "fits": [
+      {
+        "state": "illinois",
+        "ageclass": "0-17",
+        "shape": 0.5597,
+        "scale": 0.3854,
+        "start_date": "2024-09-29",
+        "t_halfsat": 310.9154,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1677
+      },
+      {
+        "state": "illinois",
+        "ageclass": "18-49",
+        "shape": 1.6516,
+        "scale": 0.1954,
+        "start_date": "2024-09-01",
+        "t_halfsat": 61.8605,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1744
+      },
+      {
+        "state": "illinois",
+        "ageclass": "50-64",
+        "shape": 1.5674,
+        "scale": 0.3353,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.3404,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3022
+      },
+      {
+        "state": "illinois",
+        "ageclass": "65+",
+        "shape": 1.5329,
+        "scale": 0.5828,
+        "start_date": "2024-09-01",
+        "t_halfsat": 43.5978,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5386
+      }
+    ]
+  },
+  {
+    "state": "indiana",
+    "fits": [
+      {
+        "state": "indiana",
+        "ageclass": "0-17",
+        "shape": 0.3879,
+        "scale": 0.4889,
+        "start_date": "2024-09-29",
+        "t_halfsat": 13264.9619,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0796
+      },
+      {
+        "state": "indiana",
+        "ageclass": "18-49",
+        "shape": 1.633,
+        "scale": 0.1409,
+        "start_date": "2024-09-01",
+        "t_halfsat": 55.8593,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1276
+      },
+      {
+        "state": "indiana",
+        "ageclass": "50-64",
+        "shape": 1.6157,
+        "scale": 0.2395,
+        "start_date": "2024-09-01",
+        "t_halfsat": 47.9929,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.221
+      },
+      {
+        "state": "indiana",
+        "ageclass": "65+",
+        "shape": 1.7028,
+        "scale": 0.4107,
+        "start_date": "2024-09-01",
+        "t_halfsat": 37.1233,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3922
+      }
+    ]
+  },
+  {
+    "state": "iowa",
+    "fits": [
+      {
+        "state": "iowa",
+        "ageclass": "0-17",
+        "shape": 1.4183,
+        "scale": 0.1555,
+        "start_date": "2024-09-29",
+        "t_halfsat": 48.3759,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1366
+      },
+      {
+        "state": "iowa",
+        "ageclass": "18-49",
+        "shape": 1.2331,
+        "scale": 0.2894,
+        "start_date": "2024-09-01",
+        "t_halfsat": 126.2854,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1935
+      },
+      {
+        "state": "iowa",
+        "ageclass": "50-64",
+        "shape": 1.103,
+        "scale": 0.5241,
+        "start_date": "2024-09-01",
+        "t_halfsat": 131.951,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3358
+      },
+      {
+        "state": "iowa",
+        "ageclass": "65+",
+        "shape": 1.0032,
+        "scale": 0.9284,
+        "start_date": "2024-09-01",
+        "t_halfsat": 121.4362,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.6015
+      }
+    ]
+  },
+  {
+    "state": "kansas",
+    "fits": [
+      {
+        "state": "kansas",
+        "ageclass": "0-17",
+        "shape": 1.6683,
+        "scale": 0.1248,
+        "start_date": "2024-09-29",
+        "t_halfsat": 30.9823,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1192
+      },
+      {
+        "state": "kansas",
+        "ageclass": "18-49",
+        "shape": 1.8669,
+        "scale": 0.1629,
+        "start_date": "2024-09-01",
+        "t_halfsat": 58.527,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1505
+      },
+      {
+        "state": "kansas",
+        "ageclass": "50-64",
+        "shape": 1.6713,
+        "scale": 0.2927,
+        "start_date": "2024-09-01",
+        "t_halfsat": 55.3656,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2667
+      },
+      {
+        "state": "kansas",
+        "ageclass": "65+",
+        "shape": 1.7365,
+        "scale": 0.4972,
+        "start_date": "2024-09-01",
+        "t_halfsat": 43.6772,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4696
+      }
+    ]
+  },
+  {
+    "state": "kentucky",
+    "fits": [
+      {
+        "state": "kentucky",
+        "ageclass": "0-17",
+        "shape": 1.099,
+        "scale": 525474.5244,
+        "start_date": "2024-09-29",
+        "t_halfsat": 125747663.8526,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2166
+      },
+      {
+        "state": "kentucky",
+        "ageclass": "18-49",
+        "shape": 1.1901,
+        "scale": 0.1919,
+        "start_date": "2024-09-01",
+        "t_halfsat": 148.1378,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1189
+      },
+      {
+        "state": "kentucky",
+        "ageclass": "50-64",
+        "shape": 1.0046,
+        "scale": 0.3806,
+        "start_date": "2024-09-01",
+        "t_halfsat": 186.7885,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2072
+      },
+      {
+        "state": "kentucky",
+        "ageclass": "65+",
+        "shape": 0.8715,
+        "scale": 0.6985,
+        "start_date": "2024-09-01",
+        "t_halfsat": 196.587,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3684
+      }
+    ]
+  },
+  {
+    "state": "louisiana",
+    "fits": [
+      {
+        "state": "louisiana",
+        "ageclass": "0-17",
+        "shape": 0.4997,
+        "scale": 0.2999,
+        "start_date": "2024-09-29",
+        "t_halfsat": 3028.0662,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0607
+      },
+      {
+        "state": "louisiana",
+        "ageclass": "18-49",
+        "shape": 0.7187,
+        "scale": 0.7992,
+        "start_date": "2024-09-01",
+        "t_halfsat": 3813.8934,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.0919
+      },
+      {
+        "state": "louisiana",
+        "ageclass": "50-64",
+        "shape": 0.6188,
+        "scale": 6.6352,
+        "start_date": "2024-09-01",
+        "t_halfsat": 88446.7809,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1597
+      },
+      {
+        "state": "louisiana",
+        "ageclass": "65+",
+        "shape": 0.5543,
+        "scale": 3.6652,
+        "start_date": "2024-09-01",
+        "t_halfsat": 19554.2596,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2833
+      }
+    ]
+  },
+  {
+    "state": "maine",
+    "fits": [
+      {
+        "state": "maine",
+        "ageclass": "0-17",
+        "shape": 0.4665,
+        "scale": 45484.9025,
+        "start_date": "2024-09-29",
+        "t_halfsat": 38946415357675.5,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2435
+      },
+      {
+        "state": "maine",
+        "ageclass": "18-49",
+        "shape": 1.6917,
+        "scale": 0.2481,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.1562,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2224
+      },
+      {
+        "state": "maine",
+        "ageclass": "50-64",
+        "shape": 1.6362,
+        "scale": 0.4239,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.6133,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3853
+      },
+      {
+        "state": "maine",
+        "ageclass": "65+",
+        "shape": 1.6175,
+        "scale": 0.7369,
+        "start_date": "2024-09-01",
+        "t_halfsat": 44.2818,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.6866
+      }
+    ]
+  },
+  {
+    "state": "maryland",
+    "fits": [
+      {
+        "state": "maryland",
+        "ageclass": "0-17",
+        "shape": 1.0965,
+        "scale": 0.2849,
+        "start_date": "2024-09-29",
+        "t_halfsat": 36.7153,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2456
+      },
+      {
+        "state": "maryland",
+        "ageclass": "18-49",
+        "shape": 2.1362,
+        "scale": 0.2083,
+        "start_date": "2024-09-01",
+        "t_halfsat": 66.0533,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1939
+      },
+      {
+        "state": "maryland",
+        "ageclass": "50-64",
+        "shape": 2.0461,
+        "scale": 0.363,
+        "start_date": "2024-09-01",
+        "t_halfsat": 61.5741,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3386
+      },
+      {
+        "state": "maryland",
+        "ageclass": "65+",
+        "shape": 2.064,
+        "scale": 0.6251,
+        "start_date": "2024-09-01",
+        "t_halfsat": 52.0978,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5955
+      }
+    ]
+  },
+  {
+    "state": "massachusetts",
+    "fits": [
+      {
+        "state": "massachusetts",
+        "ageclass": "0-17",
+        "shape": 1.1209,
+        "scale": 0.2894,
+        "start_date": "2024-09-29",
+        "t_halfsat": 29.9227,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2579
+      },
+      {
+        "state": "massachusetts",
+        "ageclass": "18-49",
+        "shape": 1.5892,
+        "scale": 0.2692,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.9537,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2374
+      },
+      {
+        "state": "massachusetts",
+        "ageclass": "50-64",
+        "shape": 1.5723,
+        "scale": 0.4477,
+        "start_date": "2024-09-01",
+        "t_halfsat": 52.5561,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4059
+      },
+      {
+        "state": "massachusetts",
+        "ageclass": "65+",
+        "shape": 1.534,
+        "scale": 0.7789,
+        "start_date": "2024-09-01",
+        "t_halfsat": 41.8717,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.7234
+      }
+    ]
+  },
+  {
+    "state": "michigan",
+    "fits": [
+      {
+        "state": "michigan",
+        "ageclass": "0-17",
+        "shape": 1.3984,
+        "scale": 0.1365,
+        "start_date": "2024-09-29",
+        "t_halfsat": 33.3123,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1259
+      },
+      {
+        "state": "michigan",
+        "ageclass": "18-49",
+        "shape": 1.9163,
+        "scale": 0.1831,
+        "start_date": "2024-09-01",
+        "t_halfsat": 80.3686,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1604
+      },
+      {
+        "state": "michigan",
+        "ageclass": "50-64",
+        "shape": 1.8875,
+        "scale": 0.3107,
+        "start_date": "2024-09-01",
+        "t_halfsat": 73.3528,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2767
+      },
+      {
+        "state": "michigan",
+        "ageclass": "65+",
+        "shape": 1.7644,
+        "scale": 0.5522,
+        "start_date": "2024-09-01",
+        "t_halfsat": 65.7547,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4948
+      }
+    ]
+  },
+  {
+    "state": "minnesota",
+    "fits": [
+      {
+        "state": "minnesota",
+        "ageclass": "0-17",
+        "shape": 1.004,
+        "scale": 0.306,
+        "start_date": "2024-09-29",
+        "t_halfsat": 40.2643,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2539
+      },
+      {
+        "state": "minnesota",
+        "ageclass": "18-49",
+        "shape": 1.7102,
+        "scale": 0.2697,
+        "start_date": "2024-09-01",
+        "t_halfsat": 64.6016,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2408
+      },
+      {
+        "state": "minnesota",
+        "ageclass": "50-64",
+        "shape": 1.6387,
+        "scale": 0.4586,
+        "start_date": "2024-09-01",
+        "t_halfsat": 56.4939,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4149
+      },
+      {
+        "state": "minnesota",
+        "ageclass": "65+",
+        "shape": 1.602,
+        "scale": 0.7937,
+        "start_date": "2024-09-01",
+        "t_halfsat": 45.5915,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.7359
+      }
+    ]
+  },
+  {
+    "state": "mississippi",
+    "fits": [
+      {
+        "state": "mississippi",
+        "ageclass": "0-17",
+        "shape": 1.1465,
+        "scale": 0.0429,
+        "start_date": "2024-09-29",
+        "t_halfsat": 18.1335,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0403
+      },
+      {
+        "state": "mississippi",
+        "ageclass": "18-49",
+        "shape": 1.1429,
+        "scale": 0.1598,
+        "start_date": "2024-09-01",
+        "t_halfsat": 166.2341,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.0932
+      },
+      {
+        "state": "mississippi",
+        "ageclass": "50-64",
+        "shape": 0.9723,
+        "scale": 0.3306,
+        "start_date": "2024-09-01",
+        "t_halfsat": 229.7283,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1629
+      },
+      {
+        "state": "mississippi",
+        "ageclass": "65+",
+        "shape": 0.8976,
+        "scale": 0.5344,
+        "start_date": "2024-09-01",
+        "t_halfsat": 188.7366,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2872
+      }
+    ]
+  },
+  {
+    "state": "missouri",
+    "fits": [
+      {
+        "state": "missouri",
+        "ageclass": "0-17",
+        "shape": 0.7819,
+        "scale": 0.1809,
+        "start_date": "2024-09-29",
+        "t_halfsat": 82.2516,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1198
+      },
+      {
+        "state": "missouri",
+        "ageclass": "18-49",
+        "shape": 1.8866,
+        "scale": 0.1378,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.2125,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1289
+      },
+      {
+        "state": "missouri",
+        "ageclass": "50-64",
+        "shape": 1.9351,
+        "scale": 0.2319,
+        "start_date": "2024-09-01",
+        "t_halfsat": 46.5374,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2213
+      },
+      {
+        "state": "missouri",
+        "ageclass": "65+",
+        "shape": 1.9165,
+        "scale": 0.4153,
+        "start_date": "2024-09-01",
+        "t_halfsat": 39.0997,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.401
+      }
+    ]
+  },
+  {
+    "state": "montana",
+    "fits": [
+      {
+        "state": "montana",
+        "ageclass": "0-17",
+        "shape": 1.1174,
+        "scale": 0.1355,
+        "start_date": "2024-09-29",
+        "t_halfsat": 37.6963,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1169
+      },
+      {
+        "state": "montana",
+        "ageclass": "18-49",
+        "shape": 1.5942,
+        "scale": 0.1859,
+        "start_date": "2024-09-01",
+        "t_halfsat": 74.1088,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1585
+      },
+      {
+        "state": "montana",
+        "ageclass": "50-64",
+        "shape": 1.5635,
+        "scale": 0.3126,
+        "start_date": "2024-09-01",
+        "t_halfsat": 64.7832,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2731
+      },
+      {
+        "state": "montana",
+        "ageclass": "65+",
+        "shape": 1.5066,
+        "scale": 0.5422,
+        "start_date": "2024-09-01",
+        "t_halfsat": 53.659,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4854
+      }
+    ]
+  },
+  {
+    "state": "nebraska",
+    "fits": [
+      {
+        "state": "nebraska",
+        "ageclass": "0-17",
+        "shape": 1.8722,
+        "scale": 0.1733,
+        "start_date": "2024-09-29",
+        "t_halfsat": 52.5586,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1596
+      },
+      {
+        "state": "nebraska",
+        "ageclass": "18-49",
+        "shape": 1.561,
+        "scale": 0.193,
+        "start_date": "2024-09-01",
+        "t_halfsat": 74.3739,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1635
+      },
+      {
+        "state": "nebraska",
+        "ageclass": "50-64",
+        "shape": 1.3648,
+        "scale": 0.347,
+        "start_date": "2024-09-01",
+        "t_halfsat": 72.1045,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2858
+      },
+      {
+        "state": "nebraska",
+        "ageclass": "65+",
+        "shape": 1.2623,
+        "scale": 0.6004,
+        "start_date": "2024-09-01",
+        "t_halfsat": 59.0135,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5059
+      }
+    ]
+  },
+  {
+    "state": "nevada",
+    "fits": [
+      {
+        "state": "nevada",
+        "ageclass": "0-17",
+        "shape": 2.0356,
+        "scale": 0.1091,
+        "start_date": "2024-09-29",
+        "t_halfsat": 40.2371,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1049
+      },
+      {
+        "state": "nevada",
+        "ageclass": "18-49",
+        "shape": 2.1479,
+        "scale": 0.1277,
+        "start_date": "2024-09-01",
+        "t_halfsat": 56.457,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1213
+      },
+      {
+        "state": "nevada",
+        "ageclass": "50-64",
+        "shape": 2.0784,
+        "scale": 0.2198,
+        "start_date": "2024-09-01",
+        "t_halfsat": 50.5673,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2101
+      },
+      {
+        "state": "nevada",
+        "ageclass": "65+",
+        "shape": 2.1019,
+        "scale": 0.3795,
+        "start_date": "2024-09-01",
+        "t_halfsat": 41.4086,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3688
+      }
+    ]
+  },
+  {
+    "state": "new_hampshire",
+    "fits": [
+      {
+        "state": "new_hampshire",
+        "ageclass": "0-17",
+        "shape": 1.2572,
+        "scale": 0.2023,
+        "start_date": "2024-09-29",
+        "t_halfsat": 26.7221,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1869
+      },
+      {
+        "state": "new_hampshire",
+        "ageclass": "18-49",
+        "shape": 1.8128,
+        "scale": 0.2328,
+        "start_date": "2024-09-01",
+        "t_halfsat": 61.1714,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2124
+      },
+      {
+        "state": "new_hampshire",
+        "ageclass": "50-64",
+        "shape": 1.7347,
+        "scale": 0.4013,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.7297,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.369
+      },
+      {
+        "state": "new_hampshire",
+        "ageclass": "65+",
+        "shape": 1.7251,
+        "scale": 0.6955,
+        "start_date": "2024-09-01",
+        "t_halfsat": 44.5993,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.6547
+      }
+    ]
+  },
+  {
+    "state": "new_jersey",
+    "fits": [
+      {
+        "state": "new_jersey",
+        "ageclass": "0-17",
+        "shape": 0.8689,
+        "scale": 0.1317,
+        "start_date": "2024-09-29",
+        "t_halfsat": 44.3048,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1033
+      },
+      {
+        "state": "new_jersey",
+        "ageclass": "18-49",
+        "shape": 1.3505,
+        "scale": 0.1909,
+        "start_date": "2024-09-01",
+        "t_halfsat": 80.3063,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1525
+      },
+      {
+        "state": "new_jersey",
+        "ageclass": "50-64",
+        "shape": 1.2299,
+        "scale": 0.3293,
+        "start_date": "2024-09-01",
+        "t_halfsat": 72.2926,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2634
+      },
+      {
+        "state": "new_jersey",
+        "ageclass": "65+",
+        "shape": 1.1025,
+        "scale": 0.5827,
+        "start_date": "2024-09-01",
+        "t_halfsat": 60.4967,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.471
+      }
+    ]
+  },
+  {
+    "state": "new_mexico",
+    "fits": [
+      {
+        "state": "new_mexico",
+        "ageclass": "0-17",
+        "shape": 0.8763,
+        "scale": 0.4222,
+        "start_date": "2024-09-29",
+        "t_halfsat": 211.8557,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2034
+      },
+      {
+        "state": "new_mexico",
+        "ageclass": "18-49",
+        "shape": 1.73,
+        "scale": 0.1988,
+        "start_date": "2024-09-01",
+        "t_halfsat": 68.8405,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1758
+      },
+      {
+        "state": "new_mexico",
+        "ageclass": "50-64",
+        "shape": 1.6386,
+        "scale": 0.3425,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.2669,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3048
+      },
+      {
+        "state": "new_mexico",
+        "ageclass": "65+",
+        "shape": 1.5819,
+        "scale": 0.5915,
+        "start_date": "2024-09-01",
+        "t_halfsat": 50.9286,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5393
+      }
+    ]
+  },
+  {
+    "state": "new_york",
+    "fits": [
+      {
+        "state": "new_york",
+        "ageclass": "0-17",
+        "shape": 0.4673,
+        "scale": 0.5712,
+        "start_date": "2024-09-29",
+        "t_halfsat": 2378.3215,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1354
+      },
+      {
+        "state": "new_york",
+        "ageclass": "18-49",
+        "shape": 1.9808,
+        "scale": 0.1623,
+        "start_date": "2024-09-01",
+        "t_halfsat": 66.1341,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1489
+      },
+      {
+        "state": "new_york",
+        "ageclass": "50-64",
+        "shape": 1.9911,
+        "scale": 0.2754,
+        "start_date": "2024-09-01",
+        "t_halfsat": 59.3765,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2569
+      },
+      {
+        "state": "new_york",
+        "ageclass": "65+",
+        "shape": 2.0199,
+        "scale": 0.4775,
+        "start_date": "2024-09-01",
+        "t_halfsat": 50.201,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4551
+      }
+    ]
+  },
+  {
+    "state": "north_carolina",
+    "fits": [
+      {
+        "state": "north_carolina",
+        "ageclass": "0-17",
+        "shape": 0.4742,
+        "scale": 31.45,
+        "start_date": "2024-09-29",
+        "t_halfsat": 16895805.967,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1426
+      },
+      {
+        "state": "north_carolina",
+        "ageclass": "18-49",
+        "shape": 1.4711,
+        "scale": 0.1621,
+        "start_date": "2024-09-01",
+        "t_halfsat": 72.149,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1362
+      },
+      {
+        "state": "north_carolina",
+        "ageclass": "50-64",
+        "shape": 1.3402,
+        "scale": 0.2887,
+        "start_date": "2024-09-01",
+        "t_halfsat": 68.6008,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2394
+      },
+      {
+        "state": "north_carolina",
+        "ageclass": "65+",
+        "shape": 1.3845,
+        "scale": 0.4712,
+        "start_date": "2024-09-01",
+        "t_halfsat": 49.7631,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4187
+      }
+    ]
+  },
+  {
+    "state": "north_dakota",
+    "fits": [
+      {
+        "state": "north_dakota",
+        "ageclass": "0-17",
+        "shape": 1.2665,
+        "scale": 0.1731,
+        "start_date": "2024-09-29",
+        "t_halfsat": 37.1841,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1542
+      },
+      {
+        "state": "north_dakota",
+        "ageclass": "18-49",
+        "shape": 1.6919,
+        "scale": 0.154,
+        "start_date": "2024-09-01",
+        "t_halfsat": 66.3575,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1364
+      },
+      {
+        "state": "north_dakota",
+        "ageclass": "50-64",
+        "shape": 1.6055,
+        "scale": 0.2681,
+        "start_date": "2024-09-01",
+        "t_halfsat": 60.8774,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2385
+      },
+      {
+        "state": "north_dakota",
+        "ageclass": "65+",
+        "shape": 1.6525,
+        "scale": 0.4583,
+        "start_date": "2024-09-01",
+        "t_halfsat": 49.0905,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4236
+      }
+    ]
+  },
+  {
+    "state": "ohio",
+    "fits": [
+      {
+        "state": "ohio",
+        "ageclass": "0-17",
+        "shape": 0.4246,
+        "scale": 24.9056,
+        "start_date": "2024-09-29",
+        "t_halfsat": 49421937.0318,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1258
+      },
+      {
+        "state": "ohio",
+        "ageclass": "18-49",
+        "shape": 2.1686,
+        "scale": 0.1627,
+        "start_date": "2024-09-01",
+        "t_halfsat": 76.541,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1481
+      },
+      {
+        "state": "ohio",
+        "ageclass": "50-64",
+        "shape": 2.0545,
+        "scale": 0.2807,
+        "start_date": "2024-09-01",
+        "t_halfsat": 71.5444,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2559
+      },
+      {
+        "state": "ohio",
+        "ageclass": "65+",
+        "shape": 1.8562,
+        "scale": 0.5055,
+        "start_date": "2024-09-01",
+        "t_halfsat": 65.4302,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4585
+      }
+    ]
+  },
+  {
+    "state": "oklahoma",
+    "fits": [
+      {
+        "state": "oklahoma",
+        "ageclass": "0-17",
+        "shape": 1.6659,
+        "scale": 0.0629,
+        "start_date": "2024-09-29",
+        "t_halfsat": 30.1176,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0602
+      },
+      {
+        "state": "oklahoma",
+        "ageclass": "18-49",
+        "shape": 1.1308,
+        "scale": 0.1615,
+        "start_date": "2024-09-01",
+        "t_halfsat": 121.7638,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1073
+      },
+      {
+        "state": "oklahoma",
+        "ageclass": "50-64",
+        "shape": 1.0755,
+        "scale": 0.2656,
+        "start_date": "2024-09-01",
+        "t_halfsat": 103.6406,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1846
+      },
+      {
+        "state": "oklahoma",
+        "ageclass": "65+",
+        "shape": 0.9733,
+        "scale": 0.4715,
+        "start_date": "2024-09-01",
+        "t_halfsat": 91.6768,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3318
+      }
+    ]
+  },
+  {
+    "state": "oregon",
+    "fits": [
+      {
+        "state": "oregon",
+        "ageclass": "0-17",
+        "shape": 0.7205,
+        "scale": 0.5257,
+        "start_date": "2024-09-29",
+        "t_halfsat": 243.5256,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2418
+      },
+      {
+        "state": "oregon",
+        "ageclass": "18-49",
+        "shape": 1.3583,
+        "scale": 0.2724,
+        "start_date": "2024-09-01",
+        "t_halfsat": 81.7447,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2169
+      },
+      {
+        "state": "oregon",
+        "ageclass": "50-64",
+        "shape": 1.3259,
+        "scale": 0.4504,
+        "start_date": "2024-09-01",
+        "t_halfsat": 68.6156,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3723
+      },
+      {
+        "state": "oregon",
+        "ageclass": "65+",
+        "shape": 1.306,
+        "scale": 0.7617,
+        "start_date": "2024-09-01",
+        "t_halfsat": 53.0726,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.6604
+      }
+    ]
+  },
+  {
+    "state": "pennsylvania",
+    "fits": [
+      {
+        "state": "pennsylvania",
+        "ageclass": "0-17",
+        "shape": 0.9314,
+        "scale": 0.1667,
+        "start_date": "2024-09-29",
+        "t_halfsat": 36.3428,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1378
+      },
+      {
+        "state": "pennsylvania",
+        "ageclass": "18-49",
+        "shape": 1.7414,
+        "scale": 0.182,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.3133,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1641
+      },
+      {
+        "state": "pennsylvania",
+        "ageclass": "50-64",
+        "shape": 1.7529,
+        "scale": 0.307,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.2344,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2832
+      },
+      {
+        "state": "pennsylvania",
+        "ageclass": "65+",
+        "shape": 1.8191,
+        "scale": 0.5278,
+        "start_date": "2024-09-01",
+        "t_halfsat": 43.8457,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5018
+      }
+    ]
+  },
+  {
+    "state": "rhode_island",
+    "fits": [
+      {
+        "state": "rhode_island",
+        "ageclass": "0-17",
+        "shape": 1.4381,
+        "scale": 0.2047,
+        "start_date": "2024-09-29",
+        "t_halfsat": 30.3215,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1915
+      },
+      {
+        "state": "rhode_island",
+        "ageclass": "18-49",
+        "shape": 2.0745,
+        "scale": 0.1951,
+        "start_date": "2024-09-01",
+        "t_halfsat": 61.0988,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1827
+      },
+      {
+        "state": "rhode_island",
+        "ageclass": "50-64",
+        "shape": 2.1882,
+        "scale": 0.3292,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.6362,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3147
+      },
+      {
+        "state": "rhode_island",
+        "ageclass": "65+",
+        "shape": 2.444,
+        "scale": 0.5665,
+        "start_date": "2024-09-01",
+        "t_halfsat": 46.2302,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5546
+      }
+    ]
+  },
+  {
+    "state": "south_carolina",
+    "fits": [
+      {
+        "state": "south_carolina",
+        "ageclass": "0-17",
+        "shape": 0.5779,
+        "scale": 478083.7269,
+        "start_date": "2024-09-29",
+        "t_halfsat": 105850758755689.53,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0791
+      },
+      {
+        "state": "south_carolina",
+        "ageclass": "18-49",
+        "shape": 1.6362,
+        "scale": 0.1354,
+        "start_date": "2024-09-01",
+        "t_halfsat": 69.273,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.118
+      },
+      {
+        "state": "south_carolina",
+        "ageclass": "50-64",
+        "shape": 1.4894,
+        "scale": 0.2362,
+        "start_date": "2024-09-01",
+        "t_halfsat": 63.394,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2048
+      },
+      {
+        "state": "south_carolina",
+        "ageclass": "65+",
+        "shape": 1.3406,
+        "scale": 0.4151,
+        "start_date": "2024-09-01",
+        "t_halfsat": 52.3424,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.363
+      }
+    ]
+  },
+  {
+    "state": "south_dakota",
+    "fits": [
+      {
+        "state": "south_dakota",
+        "ageclass": "0-17",
+        "shape": 1.6057,
+        "scale": 0.1121,
+        "start_date": "2024-09-29",
+        "t_halfsat": 30.0696,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1068
+      },
+      {
+        "state": "south_dakota",
+        "ageclass": "18-49",
+        "shape": 2.0203,
+        "scale": 0.1545,
+        "start_date": "2024-09-01",
+        "t_halfsat": 65.6806,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1424
+      },
+      {
+        "state": "south_dakota",
+        "ageclass": "50-64",
+        "shape": 1.9586,
+        "scale": 0.2674,
+        "start_date": "2024-09-01",
+        "t_halfsat": 60.4031,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2481
+      },
+      {
+        "state": "south_dakota",
+        "ageclass": "65+",
+        "shape": 1.9177,
+        "scale": 0.4691,
+        "start_date": "2024-09-01",
+        "t_halfsat": 51.8896,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4421
+      }
+    ]
+  },
+  {
+    "state": "tennessee",
+    "fits": [
+      {
+        "state": "tennessee",
+        "ageclass": "0-17",
+        "shape": 1.118,
+        "scale": 0.0624,
+        "start_date": "2024-09-29",
+        "t_halfsat": 7.5855,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0608
+      },
+      {
+        "state": "tennessee",
+        "ageclass": "18-49",
+        "shape": 2.032,
+        "scale": 0.1028,
+        "start_date": "2024-09-01",
+        "t_halfsat": 57.0382,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.0967
+      },
+      {
+        "state": "tennessee",
+        "ageclass": "50-64",
+        "shape": 2.0176,
+        "scale": 0.1737,
+        "start_date": "2024-09-01",
+        "t_halfsat": 49.9803,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1656
+      },
+      {
+        "state": "tennessee",
+        "ageclass": "65+",
+        "shape": 1.8071,
+        "scale": 0.3139,
+        "start_date": "2024-09-01",
+        "t_halfsat": 42.6307,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2989
+      }
+    ]
+  },
+  {
+    "state": "texas",
+    "fits": [
+      {
+        "state": "texas",
+        "ageclass": "0-17",
+        "shape": 0.7087,
+        "scale": 0.2109,
+        "start_date": "2024-09-29",
+        "t_halfsat": 159.2893,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.113
+      },
+      {
+        "state": "texas",
+        "ageclass": "18-49",
+        "shape": 1.4799,
+        "scale": 0.1238,
+        "start_date": "2024-09-01",
+        "t_halfsat": 68.4496,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1055
+      },
+      {
+        "state": "texas",
+        "ageclass": "50-64",
+        "shape": 1.2899,
+        "scale": 0.2208,
+        "start_date": "2024-09-01",
+        "t_halfsat": 64.1403,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.184
+      },
+      {
+        "state": "texas",
+        "ageclass": "65+",
+        "shape": 1.2495,
+        "scale": 0.3665,
+        "start_date": "2024-09-01",
+        "t_halfsat": 46.4196,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3213
+      }
+    ]
+  },
+  {
+    "state": "utah",
+    "fits": [
+      {
+        "state": "utah",
+        "ageclass": "0-17",
+        "shape": 1.7565,
+        "scale": 0.1654,
+        "start_date": "2024-09-29",
+        "t_halfsat": 46.0427,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1532
+      },
+      {
+        "state": "utah",
+        "ageclass": "18-49",
+        "shape": 1.7813,
+        "scale": 0.1756,
+        "start_date": "2024-09-01",
+        "t_halfsat": 66.2871,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1575
+      },
+      {
+        "state": "utah",
+        "ageclass": "50-64",
+        "shape": 1.9575,
+        "scale": 0.2857,
+        "start_date": "2024-09-01",
+        "t_halfsat": 55.683,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.268
+      },
+      {
+        "state": "utah",
+        "ageclass": "65+",
+        "shape": 1.8197,
+        "scale": 0.5184,
+        "start_date": "2024-09-01",
+        "t_halfsat": 49.0075,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4874
+      }
+    ]
+  },
+  {
+    "state": "vermont",
+    "fits": [
+      {
+        "state": "vermont",
+        "ageclass": "0-17",
+        "shape": 1.4005,
+        "scale": 0.404,
+        "start_date": "2024-09-29",
+        "t_halfsat": 32.9782,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.373
+      },
+      {
+        "state": "vermont",
+        "ageclass": "18-49",
+        "shape": 1.6615,
+        "scale": 0.3028,
+        "start_date": "2024-09-01",
+        "t_halfsat": 65.1378,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.2681
+      },
+      {
+        "state": "vermont",
+        "ageclass": "50-64",
+        "shape": 1.6077,
+        "scale": 0.5129,
+        "start_date": "2024-09-01",
+        "t_halfsat": 56.6784,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.4618
+      },
+      {
+        "state": "vermont",
+        "ageclass": "65+",
+        "shape": 1.5458,
+        "scale": 0.8926,
+        "start_date": "2024-09-01",
+        "t_halfsat": 45.9952,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.8211
+      }
+    ]
+  },
+  {
+    "state": "virginia",
+    "fits": [
+      {
+        "state": "virginia",
+        "ageclass": "0-17",
+        "shape": 1.4268,
+        "scale": 0.1802,
+        "start_date": "2024-09-29",
+        "t_halfsat": 33.004,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1669
+      },
+      {
+        "state": "virginia",
+        "ageclass": "18-49",
+        "shape": 1.3475,
+        "scale": 0.2159,
+        "start_date": "2024-09-01",
+        "t_halfsat": 72.9579,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1767
+      },
+      {
+        "state": "virginia",
+        "ageclass": "50-64",
+        "shape": 1.2697,
+        "scale": 0.3625,
+        "start_date": "2024-09-01",
+        "t_halfsat": 61.459,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3034
+      },
+      {
+        "state": "virginia",
+        "ageclass": "65+",
+        "shape": 1.1909,
+        "scale": 0.6284,
+        "start_date": "2024-09-01",
+        "t_halfsat": 47.9831,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5415
+      }
+    ]
+  },
+  {
+    "state": "washington",
+    "fits": [
+      {
+        "state": "washington",
+        "ageclass": "0-17",
+        "shape": 0.7009,
+        "scale": 0.3634,
+        "start_date": "2024-09-29",
+        "t_halfsat": 97.3511,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.2251
+      },
+      {
+        "state": "washington",
+        "ageclass": "18-49",
+        "shape": 2.1027,
+        "scale": 0.2059,
+        "start_date": "2024-09-01",
+        "t_halfsat": 69.8646,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1894
+      },
+      {
+        "state": "washington",
+        "ageclass": "50-64",
+        "shape": 2.1042,
+        "scale": 0.3457,
+        "start_date": "2024-09-01",
+        "t_halfsat": 62.3408,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3235
+      },
+      {
+        "state": "washington",
+        "ageclass": "65+",
+        "shape": 2.019,
+        "scale": 0.6083,
+        "start_date": "2024-09-01",
+        "t_halfsat": 54.3225,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5751
+      }
+    ]
+  },
+  {
+    "state": "west_virginia",
+    "fits": [
+      {
+        "state": "west_virginia",
+        "ageclass": "0-17",
+        "shape": 0.7377,
+        "scale": 0.1511,
+        "start_date": "2024-09-29",
+        "t_halfsat": 159.2573,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0812
+      },
+      {
+        "state": "west_virginia",
+        "ageclass": "18-49",
+        "shape": 1.7033,
+        "scale": 0.1204,
+        "start_date": "2024-09-01",
+        "t_halfsat": 55.4659,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1101
+      },
+      {
+        "state": "west_virginia",
+        "ageclass": "50-64",
+        "shape": 1.6188,
+        "scale": 0.2056,
+        "start_date": "2024-09-01",
+        "t_halfsat": 47.4042,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1901
+      },
+      {
+        "state": "west_virginia",
+        "ageclass": "65+",
+        "shape": 1.5578,
+        "scale": 0.3645,
+        "start_date": "2024-09-01",
+        "t_halfsat": 38.3838,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3424
+      }
+    ]
+  },
+  {
+    "state": "wisconsin",
+    "fits": [
+      {
+        "state": "wisconsin",
+        "ageclass": "0-17",
+        "shape": 1.9559,
+        "scale": 0.1665,
+        "start_date": "2024-09-29",
+        "t_halfsat": 32.2268,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.1617
+      },
+      {
+        "state": "wisconsin",
+        "ageclass": "18-49",
+        "shape": 1.8022,
+        "scale": 0.196,
+        "start_date": "2024-09-01",
+        "t_halfsat": 70.3303,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1742
+      },
+      {
+        "state": "wisconsin",
+        "ageclass": "50-64",
+        "shape": 1.6945,
+        "scale": 0.3463,
+        "start_date": "2024-09-01",
+        "t_halfsat": 66.6728,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3067
+      },
+      {
+        "state": "wisconsin",
+        "ageclass": "65+",
+        "shape": 1.7645,
+        "scale": 0.5819,
+        "start_date": "2024-09-01",
+        "t_halfsat": 53.5587,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.5385
+      }
+    ]
+  },
+  {
+    "state": "wyoming",
+    "fits": [
+      {
+        "state": "wyoming",
+        "ageclass": "0-17",
+        "shape": 2.6108,
+        "scale": 0.0749,
+        "start_date": "2024-09-29",
+        "t_halfsat": 36.9905,
+        "t_anchor": 195,
+        "frac_vax_anchor": 0.0739
+      },
+      {
+        "state": "wyoming",
+        "ageclass": "18-49",
+        "shape": 1.9748,
+        "scale": 0.1189,
+        "start_date": "2024-09-01",
+        "t_halfsat": 63.0981,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1098
+      },
+      {
+        "state": "wyoming",
+        "ageclass": "50-64",
+        "shape": 1.9888,
+        "scale": 0.2022,
+        "start_date": "2024-09-01",
+        "t_halfsat": 56.3757,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.1899
+      },
+      {
+        "state": "wyoming",
+        "ageclass": "65+",
+        "shape": 2.0454,
+        "scale": 0.3506,
+        "start_date": "2024-09-01",
+        "t_halfsat": 47.2737,
+        "t_anchor": 223,
+        "frac_vax_anchor": 0.3365
+      }
+    ]
+  }
+]

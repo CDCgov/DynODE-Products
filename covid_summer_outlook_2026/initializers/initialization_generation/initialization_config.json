@@ -1,0 +1,23 @@
+{
+    "start": "2022-02-12",
+    "doses": 3,
+    "state_sample": [
+        "EX"
+    ],
+    "age_groups": [
+        17,
+        49,
+        64
+    ],
+    "variant_types": [
+        "OMICRON"
+    ],
+    "data_folder_path": "initializers/initialization_generation/data/",
+    "pop_folder_path": "initializers/demographic-data/",
+    "output_folder_path": "initializers/output/",
+    "save_all_data": false,
+    "tslie_bins": [70, 140, 210, 310],
+    "variant_bin_total": 6,
+    "vac_bin_total": 3,
+    "forced_population_total": 1000000
+}

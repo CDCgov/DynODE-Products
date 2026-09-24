@@ -1,0 +1,42 @@
+[
+  {
+    "state": "georgia",
+    "ageclass": "0-17",
+    "shape": 1.0721,
+    "scale": 0.0598,
+    "start_date": "2025-09-29",
+    "t_halfsat": 21.4742,
+    "t_anchor": 272,
+    "frac_vax_anchor": 0.0561
+  },
+  {
+    "state": "georgia",
+    "ageclass": "18-49",
+    "shape": 2.036,
+    "scale": 0.0643,
+    "start_date": "2025-09-01",
+    "t_halfsat": 70.8079,
+    "t_anchor": 300,
+    "frac_vax_anchor": 0.0611
+  },
+  {
+    "state": "georgia",
+    "ageclass": "50-64",
+    "shape": 1.6941,
+    "scale": 0.1129,
+    "start_date": "2025-09-01",
+    "t_halfsat": 75.8693,
+    "t_anchor": 300,
+    "frac_vax_anchor": 0.1029
+  },
+  {
+    "state": "georgia",
+    "ageclass": "65+",
+    "shape": 1.5148,
+    "scale": 0.2245,
+    "start_date": "2025-09-01",
+    "t_halfsat": 67.4045,
+    "t_anchor": 300,
+    "frac_vax_anchor": 0.2033
+  }
+]

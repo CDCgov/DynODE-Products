@@ -1,0 +1,15 @@
+# IDE or python environment related stuff
+.vscode/
+.venv/
+poetry.lock
+
+# Any images
+*.png
+*.jpg
+*.pdf
+
+__pycache__/
+logs/
+
+# Output
+output

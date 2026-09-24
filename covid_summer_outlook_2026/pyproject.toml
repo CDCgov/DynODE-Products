@@ -1,0 +1,14 @@
+[project]
+name = "covid_summer_outlook_2026"
+version = "1.0.0"
+description = "Using DynODE to produce scenario modeling results for the Respiratory Disease Season Outlooks for summer 2026"
+authors = [{ name = "CFA" }]
+license = "Apache-2.0"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "dynode @ git+https://github.com/CDCgov/DynODE.git",
+    "optimistix<=0.0.10",
+    "numpyro<=0.21.0"
+]
